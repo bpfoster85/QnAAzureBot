@@ -1,0 +1,11 @@
+C:\Users\Bryan Foster\Desktop\SLAG BOT\SpazBot\SpazBot\bin\Debug\netcoreapp2.1\SpazBot.deps.json
+C:\Users\Bryan Foster\Desktop\SLAG BOT\SpazBot\SpazBot\bin\Debug\netcoreapp2.1\SpazBot.runtimeconfig.json
+C:\Users\Bryan Foster\Desktop\SLAG BOT\SpazBot\SpazBot\bin\Debug\netcoreapp2.1\SpazBot.runtimeconfig.dev.json
+C:\Users\Bryan Foster\Desktop\SLAG BOT\SpazBot\SpazBot\bin\Debug\netcoreapp2.1\SpazBot.dll
+C:\Users\Bryan Foster\Desktop\SLAG BOT\SpazBot\SpazBot\obj\Debug\netcoreapp2.1\SpazBot.csprojAssemblyReference.cache
+C:\Users\Bryan Foster\Desktop\SLAG BOT\SpazBot\SpazBot\obj\Debug\netcoreapp2.1\SpazBot.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Foster\Desktop\SLAG BOT\SpazBot\SpazBot\obj\Debug\netcoreapp2.1\SpazBot.AssemblyInfoInputs.cache
+C:\Users\Bryan Foster\Desktop\SLAG BOT\SpazBot\SpazBot\obj\Debug\netcoreapp2.1\SpazBot.AssemblyInfo.cs
+C:\Users\Bryan Foster\Desktop\SLAG BOT\SpazBot\SpazBot\bin\Debug\netcoreapp2.1\SpazBot.pdb
+C:\Users\Bryan Foster\Desktop\SLAG BOT\SpazBot\SpazBot\obj\Debug\netcoreapp2.1\SpazBot.dll
+C:\Users\Bryan Foster\Desktop\SLAG BOT\SpazBot\SpazBot\obj\Debug\netcoreapp2.1\SpazBot.pdb
