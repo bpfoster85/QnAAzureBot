@@ -1,0 +1,49 @@
+{
+	"info": {
+		"_postman_id": "a90e3982-fe22-4707-8332-a565a6ee59ec",
+		"name": "BOT Service",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Spaz BOT QnA",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Authorization",
+						"value": "[qna endpoint_key]",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"question\":\"When did the giants move?\"}"
+				},
+				"url": {
+					"raw": "https://[QNAHostName].azurewebsites.net/qnamaker/knowledgebases/[KnowledgeBaseID]/generateAnswer/",
+					"protocol": "https",
+					"host": [
+						"fosterqna",
+						"azurewebsites",
+						"net"
+					],
+					"path": [
+						"qnamaker",
+						"knowledgebases",
+						"[knowledgebaseID]",
+						"generateAnswer",
+						""
+					]
+				},
+				"description": "d"
+			},
+			"response": []
+		}
+	]
+}
